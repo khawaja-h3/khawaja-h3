@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khawaja-h3
 - 👀 I’m interested in coding with my bros
-- 🌱 I’m currently learning NestJS + DrizzleORM + Web Sockets + AngularJS
+- 🌱 I’m currently working with NestJS + DrizzleORM + Web Sockets + ReactJS
 - 💞️ I’m looking to collaborate on cool projects with cool people
 - 📫 How to reach me [...](https://www.linkedin.com/in/khalil-khawaja-86977a227/)
 
